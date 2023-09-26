@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I am interested in data enablement, automation, and promoting data literacy generally
 - 💬 Ask me about my work with [ENTR](https://github.com/entralliance)!
 - 📫 Feel free to reach out to my on [LinkedIn](www.linkedin.com/in/lewisarmistead)
 - ⚡ Fun fact: I am a chef-turned-analyst that loves skiing
